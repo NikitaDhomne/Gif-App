@@ -1,16 +1,11 @@
-# divine_gif
+# Divine Gif
 
-A new Flutter project.
+DivineGif is an Android Application which is build on Flutter Framework. 
+This application follows MVC design pattern.
+In this application, User can watch, download and share Gifs, Emogis and Stickers.
+Ads are also integrated in this App by using AdMob.
+Giphy Public Api is used for fetching data.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Divine_Gif](https://github.com/NikitaDhomne/Gif-App/assets/102669357/b5746aa5-7776-4bfd-860b-7e1077fe0c49)
